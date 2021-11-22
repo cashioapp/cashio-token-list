@@ -1,0 +1,37 @@
+{
+  "name": "Cashio Token List",
+  "logoURI": "https://raw.githubusercontent.com/cashioapp/cashio-token-list/main/assets/cash.png",
+  "tags": {},
+  "tokens": [
+    {
+      "chainId": 101,
+      "address": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
+      "symbol": "CASH",
+      "name": "Cashio Dollar",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/cashioapp/cashio-token-list/main/assets/cash.png",
+      "tags": ["stablecoin"],
+      "extensions": {
+        "website": "https://cashio.app",
+        "twitter": "https://twitter.com/CashioApp",
+        "discord": "https://discord.com/invite/GmkRRKJkuh",
+        "medium": "https://medium.com/@cashioapp"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP",
+      "symbol": "COW",
+      "name": "Cash Cow",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/cashioapp/cashio-token-list/main/assets/cow.png",
+      "tags": ["governance-token"],
+      "extensions": {
+        "website": "https://cashio.app",
+        "twitter": "https://twitter.com/CashioApp",
+        "discord": "https://discord.com/invite/GmkRRKJkuh",
+        "medium": "https://medium.com/@cashioapp"
+      }
+    }
+  ]
+}
